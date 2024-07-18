@@ -1,2 +1,2 @@
 # fitness_app
-a student project app for managing fitness plans
+A client server distributed application with mySQL database used for managing fitness plans
